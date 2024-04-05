@@ -1,2 +1,5 @@
-# lds3-scratch-docs
-lds3-scratch
+# LDS 3 Scratch Docs
+WIP
+
+
+[lds-database-research.md](lds-database-research.md) 
